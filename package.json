@@ -1,7 +1,6 @@
 {
   "name": "mq-listner",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "mqtt": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtam55/node-test-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashtam55/node-test-discord/issues"
+  },
+  "homepage": "https://github.com/ashtam55/node-test-discord#readme",
+  "description": ""
 }
